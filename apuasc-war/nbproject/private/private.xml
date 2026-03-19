@@ -5,7 +5,9 @@
         <group>
             <file>file:/C:/Users/USER/Documents/NetBeansProjects/apuasc/apuasc-war/web/index.html</file>
             <file>file:/C:/Users/USER/Documents/NetBeansProjects/apuasc/apuasc-war/src/conf/MANIFEST.MF</file>
-            <file>file:/C:/Users/USER/Documents/NetBeansProjects/apuasc/apuasc-war/web/WEB-INF/glassfish-web.xml</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/apuasc/apuasc-war/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/apuasc/apuasc-war/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/apuasc/apuasc-war/web/Login.jsp</file>
         </group>
     </open-files>
 </project-private>
